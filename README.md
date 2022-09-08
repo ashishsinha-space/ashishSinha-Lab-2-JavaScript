@@ -1,2 +1,2 @@
 # ashishSinha-Lab-2-JavaScript
-ashishSinha-Lab-1- JAVASCRIPT + HTML + CSS
+ashishSinha-Lab-2- JAVASCRIPT + HTML + CSS
